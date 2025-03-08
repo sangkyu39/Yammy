@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+asyncpg
+alembic
+psycopg2-binary
+boto3
+torch
+torchvision
+pillow
+python-multipart
+websockets
+python-dotenv
