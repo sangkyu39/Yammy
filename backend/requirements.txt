@@ -12,3 +12,4 @@ pillow
 python-multipart
 websockets
 python-dotenv
+supabase
